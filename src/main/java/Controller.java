@@ -1,6 +1,6 @@
 public class Controller {
     private  void getAge(){
-        System.out.println("19");
+        System.out.println("18");
     }
 
     private void getAddress(){
